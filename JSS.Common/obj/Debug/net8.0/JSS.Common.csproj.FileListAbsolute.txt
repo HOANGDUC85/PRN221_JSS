@@ -1,0 +1,11 @@
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\bin\Debug\net8.0\JSS.Common.deps.json
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\bin\Debug\net8.0\JSS.Common.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\bin\Debug\net8.0\JSS.Common.pdb
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\obj\Debug\net8.0\JSS.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\obj\Debug\net8.0\JSS.Common.AssemblyInfoInputs.cache
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\obj\Debug\net8.0\JSS.Common.AssemblyInfo.cs
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\obj\Debug\net8.0\JSS.Common.csproj.CoreCompileInputs.cache
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\obj\Debug\net8.0\JSS.Common.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\obj\Debug\net8.0\refint\JSS.Common.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\obj\Debug\net8.0\JSS.Common.pdb
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Common\obj\Debug\net8.0\ref\JSS.Common.dll

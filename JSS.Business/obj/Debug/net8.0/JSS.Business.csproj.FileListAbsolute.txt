@@ -1,0 +1,17 @@
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\obj\Debug\net8.0\JSS.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\obj\Debug\net8.0\JSS.Business.AssemblyInfoInputs.cache
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\obj\Debug\net8.0\JSS.Business.AssemblyInfo.cs
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\obj\Debug\net8.0\JSS.Business.csproj.CoreCompileInputs.cache
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\bin\Debug\net8.0\JSS.Business.deps.json
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\bin\Debug\net8.0\JSS.Business.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\bin\Debug\net8.0\JSS.Business.pdb
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\bin\Debug\net8.0\JSS.Common.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\bin\Debug\net8.0\JSS.Data.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\bin\Debug\net8.0\JSS.Common.pdb
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\bin\Debug\net8.0\JSS.Data.pdb
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\obj\Debug\net8.0\JSS.Business.csproj.AssemblyReference.cache
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\obj\Debug\net8.0\JSS.Busi.2E324476.Up2Date
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\obj\Debug\net8.0\JSS.Business.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\obj\Debug\net8.0\refint\JSS.Business.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\obj\Debug\net8.0\JSS.Business.pdb
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Business\obj\Debug\net8.0\ref\JSS.Business.dll

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSS.Data", "JSS.Data\JSS.Data.csproj", "{24B52A93-A005-4E0F-BA2C-AC54A3A96ACF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSS.Business", "JSS.Business\JSS.Business.csproj", "{4FE5142E-6963-4B2D-835A-8CA6ED6D613D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSS.RazorWebApp", "JSS.RazorWebApp\JSS.RazorWebApp.csproj", "{47098DE4-A5E2-4EFA-A297-6EDC0A273F1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSS.Console.App", "JSS.Console.App\JSS.Console.App.csproj", "{D03DE87B-4D81-49B4-9A4F-D13E31314D71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSS.Common", "JSS.Common\JSS.Common.csproj", "{4C08082E-A171-4848-9281-8589C984FE78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSS.WPFApp", "JSS.WPFApp\JSS.WPFApp.csproj", "{86E1D9B2-7257-4A4A-B47C-DAC5F7998125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24B52A93-A005-4E0F-BA2C-AC54A3A96ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B52A93-A005-4E0F-BA2C-AC54A3A96ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B52A93-A005-4E0F-BA2C-AC54A3A96ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B52A93-A005-4E0F-BA2C-AC54A3A96ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE5142E-6963-4B2D-835A-8CA6ED6D613D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE5142E-6963-4B2D-835A-8CA6ED6D613D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE5142E-6963-4B2D-835A-8CA6ED6D613D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE5142E-6963-4B2D-835A-8CA6ED6D613D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47098DE4-A5E2-4EFA-A297-6EDC0A273F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47098DE4-A5E2-4EFA-A297-6EDC0A273F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47098DE4-A5E2-4EFA-A297-6EDC0A273F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47098DE4-A5E2-4EFA-A297-6EDC0A273F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03DE87B-4D81-49B4-9A4F-D13E31314D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03DE87B-4D81-49B4-9A4F-D13E31314D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03DE87B-4D81-49B4-9A4F-D13E31314D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03DE87B-4D81-49B4-9A4F-D13E31314D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C08082E-A171-4848-9281-8589C984FE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C08082E-A171-4848-9281-8589C984FE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C08082E-A171-4848-9281-8589C984FE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C08082E-A171-4848-9281-8589C984FE78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E1D9B2-7257-4A4A-B47C-DAC5F7998125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E1D9B2-7257-4A4A-B47C-DAC5F7998125}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E1D9B2-7257-4A4A-B47C-DAC5F7998125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E1D9B2-7257-4A4A-B47C-DAC5F7998125}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F55DFCCF-CFD7-4D70-8075-F7550987B9E8}
+	EndGlobalSection
+EndGlobal

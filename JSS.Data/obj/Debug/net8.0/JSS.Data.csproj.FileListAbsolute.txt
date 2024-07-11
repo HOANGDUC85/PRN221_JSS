@@ -1,0 +1,14 @@
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\bin\Debug\net8.0\JSS.Data.deps.json
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\bin\Debug\net8.0\JSS.Data.runtimeconfig.json
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\bin\Debug\net8.0\JSS.Data.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\bin\Debug\net8.0\JSS.Data.pdb
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\obj\Debug\net8.0\JSS.Data.csproj.AssemblyReference.cache
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\obj\Debug\net8.0\JSS.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\obj\Debug\net8.0\JSS.Data.AssemblyInfoInputs.cache
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\obj\Debug\net8.0\JSS.Data.AssemblyInfo.cs
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\obj\Debug\net8.0\JSS.Data.csproj.CoreCompileInputs.cache
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\obj\Debug\net8.0\JSS.Data.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\obj\Debug\net8.0\refint\JSS.Data.dll
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\obj\Debug\net8.0\JSS.Data.pdb
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\obj\Debug\net8.0\JSS.Data.genruntimeconfig.cache
+D:\PRN221\Project\Net1704_221_7_JJS\Source\Net1704_221_7_JJS\JSS.Data\obj\Debug\net8.0\ref\JSS.Data.dll
